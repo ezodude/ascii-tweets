@@ -1,0 +1,2 @@
+Just playing around with ascii art library figlet -> http://www.figlet.org/.
+This bit of code searches twitter and displays the tweets on the screen using different figlet fonts.
